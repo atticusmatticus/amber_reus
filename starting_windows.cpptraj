@@ -1,0 +1,5 @@
+parm MFP.prmtop
+trajin start_files/MFP.wYY.start.rst
+trajout win.XX/MFP.wXX.start.rst restart
+autoimage
+go
